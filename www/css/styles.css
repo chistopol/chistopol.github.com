@@ -1,0 +1,57 @@
+html{background-color:#000}
+.countdown{
+	width:100%;
+	float:left;}
+.timer{
+	font:72px Courier;
+	color:#fff;
+	text-align:center;
+	margin-right: 20px;}
+
+h1{
+	text-align: center;
+	color:  White;
+	font:72px Courier
+}
+#days{
+	margin-right: 100px;
+}
+
+#hours{
+	margin-right: 100px;
+}
+
+#minutes{
+	margin-right: 100px;
+}
+
+#seconds{
+	margin-right: 100px;
+}
+
+.dates{
+	color:  White;
+	display: inline-flex;
+	margin-left: 700px;
+	font:32px Courier
+}
+
+.days{
+	position: relative;
+	left: -180px;
+}
+
+.hours{
+	position: relative;
+	left: -27px;
+}
+
+.mins{
+	position: relative;
+	right: -100px;
+}
+
+.secs{
+	position: relative;
+	right: -190px;
+}
